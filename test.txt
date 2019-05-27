@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new change?
+=======
+new change!
+>>>>>>> origin/master
 test pull request template
 

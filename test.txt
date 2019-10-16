@@ -2,6 +2,6 @@
 new change?
 =======
 new change!
->>>>>>> origin/master
+new change!
 test pull request template
 

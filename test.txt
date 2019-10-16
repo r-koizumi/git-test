@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+new change?
+=======
+new change!
 new change!
 test pull request template
 
